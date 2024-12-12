@@ -10,3 +10,4 @@ export const logout = async (req,res)=> {
   res.send("logout up route called")
 }
 
+
